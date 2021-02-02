@@ -1,0 +1,20 @@
+This will be my todo file:
+
+January 11, 2020 part 2:
+
+Task: get model running and try to reduce layer dimensions so that it does not overfit the data
+
+January 11, 2020:
+
+Task: feeding word embedding into the model instead of having an embedding layer
+- having dimension issues with first layer since commented out the original code
+- takes up too much memory to do that way
+
+Alternative: learn word embeddings within training of model, which is what we had originally
+
+
+
+
+
+
+
